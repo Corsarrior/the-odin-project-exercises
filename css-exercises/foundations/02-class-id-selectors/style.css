@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, sans-serif;
+}
+
+.header-red {
+    background-color: rgb(241, 159, 200);
+}
+
+#header-blue {
+    color: rgb(27, 27, 216);
+    font-size: 36px;
+}
+
+.header-red.header-3{
+    font-size: 24px;
+}
+
+#header-green{
+    background-color: rgb(49, 206, 70);
+    font-size: 24px;
+    font-weight: 700;
+}
